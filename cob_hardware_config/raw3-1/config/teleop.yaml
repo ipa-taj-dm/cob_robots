@@ -1,7 +1,11 @@
 # common params
 run_factor: 2.0
 
-# buttons
+# joy config
+joy_num_buttons: 12
+joy_num_axes: 6
+
+# button assignment
 lower_neck_button: 6
 upper_neck_button: 4
 tray_button: 3
